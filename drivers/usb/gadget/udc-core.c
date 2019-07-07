@@ -27,7 +27,7 @@
 
 #include <linux/usb/ch9.h>
 #include <linux/usb/gadget.h>
-#include <linux/usb/composite.h>
+#include "../../../include/linux/usb/composite.h"
 
 /**
  * struct usb_udc - describes one usb device controller
